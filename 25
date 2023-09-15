@@ -1,0 +1,40 @@
+25 interview questions for Data Types, Operators, Conditional Statements, Looping Statements, Functions.
+
+# Data Types:
+
+1) What are the basic built-in data types in Python?
+2) Explain the difference between mutable and immutable data types in Python.
+3) How do you convert one data type to another in Python?
+4) What is the None data type in Python, and when is it commonly used?
+5) Explain the difference between '==' and 'is' in Python when comparing objects.
+
+# Operators:
+
+6) Describe the usage of the '==' operator in Python. How is it different from '!='?
+7) What is the purpose of the 'and' and 'or' operators in Python?
+8) Explain the concept of operator precedence in Python and provide examples.
+9) What is the purpose of the 'not' operator in Python?
+10) How do you use the 'in' operator to check for the presence of an element in a sequence?
+
+# Conditional Statements:
+
+11) What are the three types of conditional statements in Python?
+12) Explain the 'if-elif-else' statement in Python with an example.
+13) What is the ternary operator in Python, and how is it used?
+14) Describe the 'pass' statement in Python and when it might be used.
+15) What is the difference between 'if' and 'elif' in an 'if-elif-else' block?
+
+# Looping Statements:
+
+16) How do 'for' loops and 'while' loops differ in Python?
+17) Explain the 'break' and 'continue' statements in Python loops.
+18) What is an infinite loop, and how can it be avoided in Python?
+19) Describe the 'range' function and how it is commonly used in 'for' loops.
+20) How do you iterate over the items of a dictionary in Python using loops?
+
+# Functions:
+21) What is a function in Python, and why is it used?
+22) Explain the difference between parameters and arguments in a Python function.
+23) What is the purpose of the 'return' statement in a Python function?
+24) What is a lambda function in Python, and when is it commonly used?
+25) Explain the difference between local and global variables in Python within the context of functions.
